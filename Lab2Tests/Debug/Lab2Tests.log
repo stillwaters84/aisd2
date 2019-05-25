@@ -1,0 +1,13 @@
+﻿  Lab2Tests.cpp
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Tests\Lab2Tests.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Tests\Lab2Tests.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Tests\Lab2Tests.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Tests\Lab2Tests.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Tests\Lab2Tests.cpp(150): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Tests\Lab2Tests.cpp(247): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Tests\Lab2Tests.cpp(273): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Map\RedBlackTree.h(329): warning C4715: Map<int,int>::FindNode: значение возвращается не при всех путях выполнения
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Map\RedBlackTree.h(329): warning C4715: Map<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::FindNode: значение возвращается не при всех путях выполнения
+C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Map\RedBlackTree.h(329): warning C4715: Map<int,char>::FindNode: значение возвращается не при всех путях выполнения
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\Kendrick\Desktop\┼уюЁ ╤ЄєфхэЄ\ырс√ ршёф\╦рср2\╦рср2─хЁхтю\Lab2Map\Debug\Lab2Tests.lib ш юс·хъЄ C:\Users\Kendrick\Desktop\┼уюЁ ╤ЄєфхэЄ\ырс√ ршёф\╦рср2\╦рср2─хЁхтю\Lab2Map\Debug\Lab2Tests.exp
+  Lab2Tests.vcxproj -> C:\Users\Kendrick\Desktop\Егор Студент\лабы аисд\Лаба2\Лаба2Дерево\Lab2Map\Debug\Lab2Tests.dll
